@@ -2,7 +2,7 @@
 headless: true
 ---
 
-_2014 Edition_
+_2014 Edition by [Adam Hawkins](https://slashdeploy.com)_.
 
 - [Introduction]({{< ref "/2014/introduction" >}})
 - Delivery Mechansims

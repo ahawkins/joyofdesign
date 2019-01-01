@@ -1,6 +1,7 @@
 ---
 type: docs
 bookShowToC: false
+title: Preface
 ---
 
 # Preface
@@ -34,4 +35,4 @@ chapters.
 
 Good luck out there and happy shipping!
 
--- Adam Hawkins, 2018
+-- [Adam Hawkins](https://slashdeploy.com), 2018

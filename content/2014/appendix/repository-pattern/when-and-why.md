@@ -2,7 +2,7 @@
 type: docs
 ---
 
-# Repositories: When & Why
+# When & Why
 
 Every software architecture decision is about trade-offs. We asses the
 current need and try to predict what's around the corner. It's not

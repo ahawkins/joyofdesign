@@ -3,7 +3,7 @@ type: docs
 bookShowToc: false
 ---
 
-# Repository Pattern: Introduction
+# Introduction
 
 The repository pattern changed how I approached writing software and
 it's key point in the joy of design series. It helped me improve from
