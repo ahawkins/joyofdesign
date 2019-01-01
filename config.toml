@@ -1,0 +1,9 @@
+baseURL = "https://joyofdesign.club"
+languageCode = "en-us"
+title = "The Joy of Design"
+theme = "book"
+pygmentsCodeFences = true
+
+[params]
+	BookSection = "2014"
+	BookMenuBundle = "2014/menu"
