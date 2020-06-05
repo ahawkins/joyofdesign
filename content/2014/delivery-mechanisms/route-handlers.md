@@ -16,7 +16,7 @@ errors and respond with a correct status code and error message.
 
 The route handlers use all the helpers so look at for them. You can
 read about them in the previous post on [helpers &
-error handling](/2014/01/delivery_mechanisms-helpers_and_error_handling/).
+error handling](/2014/delivery-mechanisms/helpers-and-error-handling/).
 
 Time to move on to writing a route handler. Step 1: Instantiate the
 objects.
@@ -83,7 +83,7 @@ code.
 
 This sums up everything about using Sinatra as a HTTP (JSON) delivery
 mechanism. The next entry will handle [logicless HTML
-presentation](/2014/01/delivery_mechanisms_with_sinatra-logic-less_views/).
+presentation](/2014/delivery-mechanisms/logic-less-views/).
 There is certainly a lot to cover there!
 
 I'd love to pair with any of you implementing some of stuff in your
